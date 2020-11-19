@@ -13,3 +13,5 @@ I've found this user agent string `Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.
 You know you are in old interface if it looks like this ![Old FB UI](docs/old_fb_ui.png)
 
 I've used this [extension](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) to change user agent.
+
+If you are having difficulty, please feel free to open an issue. will be happy to help you.
